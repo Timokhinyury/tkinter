@@ -186,6 +186,7 @@ class Lesson6(tk.Toplevel):
                 self.txt.insert(INSERT, mtx[i][j])
                 self.txt.insert(INSERT, ' ')
 
+
 class Lesson7(tk.Toplevel):
 
     def __init__(self, parent):
